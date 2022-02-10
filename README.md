@@ -6,6 +6,13 @@
 - 📫 How to reach me: zlysanskiy@gmail.com
 - ⚡ Fun fact: We are all features in our world
 
+:guitar: Codewars
+<p align="center">
+  <div>
+     <img height="40em" width="400em" alt="codewars stats" src="https://www.codewars.com/users/Keallar/badges/large" />
+  </div>
+</p>
+
 📈 My github stats
 
 <div>
