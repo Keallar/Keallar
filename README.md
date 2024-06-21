@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in "Edge Center"
-- 🌱 I’m currently learning Ruby, Ruby on Rails, web-development, C++ and many other frameworks and game engines
+- 🌱 I’m currently learning Ruby, Ruby on Rails, JS, React, C++ and other frameworks and game engines
 - 💬 Ask me about myself, guy
 - 📫 How to reach me: zlysanskiy@gmail.com
 - ⚡ Fun fact: We are all features in our world
