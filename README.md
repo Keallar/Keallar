@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in "Edge Center"
-- 🌱 I’m currently learning Ruby, Ruby on Rails, JS, React, C++ and other frameworks and game engines
-- 💬 Ask me about myself, guy
+- 🌱 I code in Ruby (very love this), Ruby on Rails, JS, React, alse know a little bit C++ and some game engines
+- 💬 Sometimes i write articles on my site https://keallar.github.io/ and create posts about Ruby/Rails in my tg channel @ruby_rails_tips_and_tricks
 - 📫 How to reach me: zlysanskiy@gmail.com
 - ⚡ Fun fact: We are all features in our world
 
@@ -17,5 +17,4 @@
 
 <div>
   <img align="left" height="215em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=Keallar&theme=chartreuse-dark&show_icons=true" />
-  <img align="right" height="215em" alt="postmodern's top-languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keallar&theme=chartreuse-dark" />
 </div>
