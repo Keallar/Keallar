@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in "Edge Center"
+- 🔭 I’m currently working in "EdgeCenter"
 - 🌱 I code in Ruby (very love this), Ruby on Rails, JS, React, also know a little bit C++ and some game engines
 - 💬 Sometimes i write articles on my site https://keallar.github.io/ and create posts about Ruby/Rails in my tg channel @ruby_rails_tips_and_tricks
 - 📫 How to reach me: zlysanskiy@gmail.com
