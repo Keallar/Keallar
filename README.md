@@ -6,15 +6,12 @@
 - 📫 How to reach me: zlysanskiy@gmail.com
 - ⚡ Fun fact: We are all features in our world
 
-:guitar: Codewars
-<p align="center">
-  <div>
-     <img height="40em" width="400em" alt="codewars stats" src="https://www.codewars.com/users/Keallar/badges/large" />
-  </div>
-</p>
-
-📈 My github stats
-
-<div>
-  <img align="left" height="215em" alt="postmodern's github stats" src="https://github-readme-stats.vercel.app/api?username=Keallar&theme=chartreuse-dark&show_icons=true" />
-</div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Keallar&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Keallar?pet-id=762233781160716387"
+    width="600"
+    height="140"
+  />
+</a>
+  
+  
